@@ -19,8 +19,8 @@
 
 :root {
 	font-size: 13px;
-	--color-text: #000;
-	--color-bg: #fcd9e8;
+	--color-text: #fff;
+	--color-bg: #000;
 	--color-link: #020202;
 	--color-link-hover: #fff;
 	--img-width: 190px;
