@@ -182,7 +182,7 @@ main {
 	grid-row-gap: 1.25rem;
 	grid-template-columns: 1fr;
 	grid-template-rows: auto 1fr auto auto;
-	grid-template-areas: 'frame' 'meta' 'demos' 'content';
+	grid-template-areas: 'frame' 'content' 'meta' 'demos';
 }
 
 .meta {
@@ -355,7 +355,7 @@ body #cdawrap {
 	main {
 		grid-template-columns: 1fr 1fr;
 		grid-template-rows: auto 1fr auto;
-		grid-template-areas: 'frame frame' 'meta demos' 'content content';
+		grid-template-areas: 'frame frame' 'content content' 'meta demos';
 	}
 	.frame {
 		grid-template-columns: auto auto auto 1fr;
