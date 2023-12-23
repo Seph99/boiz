@@ -129,7 +129,7 @@ export class ImageTrail {
             opacity: 1
         }, 0)
         .to(img.DOM.clipInnerElements, {
-            duration: 0.3,
+            duration: 0.6,
             ease: 'power3',
             x: () => gsap.utils.random(-20,20),
             y: () => gsap.utils.random(-20,20),
