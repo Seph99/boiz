@@ -382,3 +382,9 @@ body #cdawrap {
     	justify-self: end;
 	}
 }
+
+@media screen and (max-width: 425px) {
+  .demos {
+    margin-bottom: 50px; 
+  }
+}
