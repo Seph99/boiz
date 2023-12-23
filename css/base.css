@@ -355,7 +355,7 @@ body #cdawrap {
 	main {
 		grid-template-columns: 1fr 1fr;
 		grid-template-rows: auto 1fr auto;
-		grid-template-areas: 'frame frame' 'content content' 'meta demos';
+		grid-template-areas: 'frame frame' 'meta demos' 'content content';
 	}
 	.frame {
 		grid-template-columns: auto auto auto 1fr;
